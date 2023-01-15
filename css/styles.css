@@ -798,6 +798,17 @@ img {
   color: rgba(117, 117, 117, 0.5);
 }
 
+.modal-form-chec-desc {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
+  color: #757575;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
 .modal-form-chec-desc::before {
   content: ' ';
   display: block;
@@ -805,6 +816,7 @@ img {
   height: 16px;
   cursor: pointer;
   border-radius: 2px;
+  margin-right: 8px;
   background-image: url(../images/checkbox.svg);
 }
 
