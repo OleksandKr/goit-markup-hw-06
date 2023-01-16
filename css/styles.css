@@ -196,7 +196,7 @@ img {
   font-family: inherit;
   font-weight: 500;
   font-size: var(--dominant-type-font-size);
-  line-height: 1.9;
+  line-height: 1.5;
   padding: 16px 32px;
   letter-spacing: 0.04em;
   color: var(--hover-text-button-color);
@@ -839,7 +839,7 @@ img {
   font-family: inherit;
   font-weight: 500;
   font-size: var(--dominant-type-font-size);
-  line-height: 1.9;
+  line-height: 1.5;
   padding: 16px 32px;
   letter-spacing: 0.04em;
   color: var(--hover-text-button-color);
